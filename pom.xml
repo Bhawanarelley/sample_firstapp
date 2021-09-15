@@ -15,7 +15,7 @@
 		<groupId>com.tibco.ep.sb.parent</groupId>
 		<artifactId>ep-eventflow-fragment</artifactId>
 		<version>10.6.1</version>
-		<relativePath>C:\Users\bhawa\.m2\com.tibco.ep.sb.rt\pom.xml</relativePath>
+		<relativePath>C:\Users\bhawa\Documents\StreamBase Studio 10.6 Workspace\sample_firstapp\pom.xml</relativePath>
 	</parent>
 	<dependencies></dependencies>
 </project>
